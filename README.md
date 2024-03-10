@@ -21,4 +21,7 @@ The researchers trained four models to predict the classification of tweet senti
 - The Naive Bayes achieved an overall accuracy of approximately **88.87%**, performing well with minimal misclassifications
 - The LSTM obtained the lowest accuracy level of about **75%**, indicating potential for improvement
 ## Applications to Management
-This research identifies the most promising model to continue tuning before deployment. This model can be applied to customer service workflows to expedite communication and complaint resolution on Twitter (now X). This model can also be utilized to identify commonly occurring complaint topics to direct operational focus.
+This research identifies the GRU as the most promising model to continue tuning before deployment. This model can be applied to:
+- Improving customer service workflows by expediting communication and complaint resolution on Twitter (now X)
+- Directing operational focus by identifying commonly occurring complaint topics
+- Directing customer base research initiatives by monitoring public feedback and complaints/praise topics 
